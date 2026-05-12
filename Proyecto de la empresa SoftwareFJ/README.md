@@ -43,4 +43,4 @@ python main.py
 
 ## Integrantes
 
-Proyecto académico realizado por el grupo de trabajo para la asignatura de Programación.
+Proyecto académico realizado por el grupo 55 maria paula martinez medina y brayan jose hernandez
